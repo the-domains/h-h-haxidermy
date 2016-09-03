@@ -1,4 +1,3 @@
-layout_spectrum: 0.5448639737442136
 typography_spectrum: 0.07449428294785321
 color:
   brandStrength: 0.2660590778104961
@@ -6,9 +5,12 @@ color:
   saturation: 0.16110970173031092
   rhythmicContrast: 0.9336812794208527
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#FFFFFF'
+    - '#9E9673'
+    - '#54503D'
+    - '#FA6F00'
+layout_spectrum: 0.5448639737442136
+analytics:
+  google: UA-83417967-1
 name: H H Haxidermy
